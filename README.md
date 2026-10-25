@@ -19,7 +19,10 @@ Next.js frontend
 [Frontend](https://github.com/smart-phset/phset-client/tree/feat/grow-room-monitoring) ·
 [Spring backend](https://github.com/smart-phset/phset-api) ·
 [Regular ESP32 MQTT firmware](https://github.com/smart-phset/smart-things).
-The regular ESP32 remains a separate device and repository.
+The regular ESP32 remains a separate device and repository. Camera source belongs
+only in **smart-phset/web-cam**, not in smart-things. For installation and startup
+across all five repositories, see the frontend
+[full-system onboarding guide](https://github.com/smart-phset/phset-client/blob/feat/grow-room-monitoring/README.md#start-smartphset-from-a-fresh-computerreboot).
 
 ## Hardware and preserved camera profile
 
