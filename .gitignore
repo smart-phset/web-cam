@@ -18,3 +18,11 @@ build/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Private release material (keep outside the checkout in production)
+.release-private/
+camera.env
+*.pem
+*.key
+*.p12
+*.jks
